@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\eventmng.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\eventmng.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\updateeventbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\updateeventbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\createeventbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\createeventbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\eventbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\eventbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\eventbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\eventbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\controllers\\eventbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\controllers\\eventbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|c:\\users\\a\\documents\\dotnet\\eventmng\\eventmng\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8E81DC-0AF8-4804-986D-4A12F45ED9C8}|EventMng\\EventMng.csproj|solutionrelative:eventmng\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EventMng\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Services\\AuthService.cs",
+              "RelativeToolTip": "EventMng\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:08:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EventMng\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Services\\IAuthService.cs",
+              "RelativeToolTip": "EventMng\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:08:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EventMng\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EventMng\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:07:23.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEventBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UpdateEventBookingDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\UpdateEventBookingDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UpdateEventBookingDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\UpdateEventBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:06:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventMng",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\EventMng.csproj",
+              "RelativeDocumentMoniker": "EventMng\\EventMng.csproj",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\EventMng.csproj",
+              "RelativeToolTip": "EventMng\\EventMng.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T07:00:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateEventBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\CreateEventBookingDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\CreateEventBookingDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\CreateEventBookingDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\CreateEventBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:06:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\EventBookingDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\EventBookingDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\EventBookingDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\EventBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:06:04.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UpdateEventDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\UpdateEventDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UpdateEventDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\UpdateEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:05:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\CreateEventDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\CreateEventDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\CreateEventDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\CreateEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:05:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\EventDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\EventDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\EventDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:05:11.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:04:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:04:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:04:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:03:56.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:03:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "EventMng\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:03:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventBooking.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\EventBooking.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\EventBooking.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\EventBooking.cs",
+              "RelativeToolTip": "EventMng\\Models\\EventBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:02:05.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\Event.cs",
+              "RelativeToolTip": "EventMng\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:01:49.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EventMng\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Models\\User.cs",
+              "RelativeToolTip": "EventMng\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:01:28.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventBookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\EventBookingsController.cs",
+              "RelativeDocumentMoniker": "EventMng\\Controllers\\EventBookingsController.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\EventBookingsController.cs",
+              "RelativeToolTip": "EventMng\\Controllers\\EventBookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:00:21.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventMng\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventMng\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:59:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EventMng\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EventMng\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:58:51.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventMng\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\dotnet\\EventMng\\EventMng\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventMng\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:57:42.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
